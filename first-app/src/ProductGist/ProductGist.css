@@ -1,0 +1,12 @@
+.productgist{
+    margin-top: 50px;
+    font: 1em sans-serif;
+    color: deeppink;
+
+    
+}
+.productgist:hover{
+    font: 1em sans-serif bold;
+    color: deeppink;
+    background: turquoise;
+}
